@@ -155,7 +155,7 @@ PUSH 0x0
 PUSH 0x84
 PUSH 0x0
 PUSH 0x0
-PUSH 0xdd7df66595abe308a6fc8c1fbddfcbcf57ba4efc
+PUSH 0xdd7df66595abe308a6fc8c1fbddfcbcf57ba4efc double contract
 PUSH 0x32
 GAS
 SUB
